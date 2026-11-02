@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171009"/><stop offset="0.55" stop-color="#3a2717"/><stop offset="1" stop-color="#5a3a26"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0.75" cy="0.3" r="0.8">
+      <stop stop-color="#d9975c" stop-opacity="0.4"/><stop offset="1" stop-color="#d9975c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#g)"/>
+  <rect width="1200" height="500" fill="url(#r)"/>
+  <g transform="translate(880,140) scale(1.6)">
+  <ellipse cx="160" cy="182" rx="78" ry="26" fill="none" stroke="#f6f1ea" stroke-width="7"/>
+  <path d="M104 176c6-34 30-56 56-56s50 22 56 56" fill="none" stroke="#f6f1ea" stroke-width="7" stroke-linecap="round"/>
+  <path d="M128 148c8-10 20-16 32-16s24 6 32 16" fill="none" stroke="#f6f1ea" stroke-width="5" stroke-linecap="round" opacity=".6"/>
+  <path d="M96 182h128" stroke="#f6f1ea" stroke-width="7" stroke-linecap="round" opacity=".35"/>
+</g>
+  <text x="72" y="300" font-family="Georgia, serif" font-size="92" font-weight="600" letter-spacing="-2" fill="#f6f1ea" fill-opacity="0.92">Food</text>
+  <text x="76" y="352" font-family="ui-monospace, monospace" font-size="18" letter-spacing="6" fill="#d9975c">PLACEHOLDER COVER</text>
+</svg>

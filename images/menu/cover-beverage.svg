@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171009"/><stop offset="0.55" stop-color="#3a2717"/><stop offset="1" stop-color="#5a3a26"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0.75" cy="0.3" r="0.8">
+      <stop stop-color="#d9975c" stop-opacity="0.4"/><stop offset="1" stop-color="#d9975c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="500" fill="url(#g)"/>
+  <rect width="1200" height="500" fill="url(#r)"/>
+  <g transform="translate(880,140) scale(1.6)">
+  <path d="M118 150h84l-10 78c-2 16-16 28-32 28h0c-16 0-30-12-32-28l-10-78z" fill="none" stroke="#f6f1ea" stroke-width="7" stroke-linecap="round"/>
+  <path d="M202 168c22-4 38 8 36 28-2 18-20 28-40 26" fill="none" stroke="#f6f1ea" stroke-width="7" stroke-linecap="round"/>
+  <path d="M140 132c0-14 12-18 12-32s-12-16-12-28" fill="none" stroke="#f6f1ea" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+  <path d="M164 128c0-14 12-18 12-32s-12-16-12-28" fill="none" stroke="#f6f1ea" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M188 132c0-14 12-18 12-32s-12-16-12-28" fill="none" stroke="#f6f1ea" stroke-width="6" stroke-linecap="round" opacity=".4"/>
+</g>
+  <text x="72" y="300" font-family="Georgia, serif" font-size="92" font-weight="600" letter-spacing="-2" fill="#f6f1ea" fill-opacity="0.92">Beverage</text>
+  <text x="76" y="352" font-family="ui-monospace, monospace" font-size="18" letter-spacing="6" fill="#d9975c">PLACEHOLDER COVER</text>
+</svg>
